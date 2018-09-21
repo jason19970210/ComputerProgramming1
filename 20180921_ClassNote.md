@@ -3,4 +3,6 @@
 
 Steps:  
 1. Download JAVA by searching `java download se` [Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+![39](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/39.png)
+![40](https://raw.githubusercontent.com/jason19970210/MarkdownPhotos/master/40.png)
 2. 
