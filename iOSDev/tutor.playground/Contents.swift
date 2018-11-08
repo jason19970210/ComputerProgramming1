@@ -45,7 +45,7 @@ var b3:Bool = false
 
 
 // Tuple 元組
-let myInfo = ("Jason Hsu", 1997)
+var myInfo = ("Jason Hsu", 1997)
 let myName = myInfo.0 // Jason Hsu
 let myBirth = myInfo.1 //1997
     // * Function Print_Name_Birth()
@@ -154,3 +154,4 @@ array.shuffle()
 array
 array.shuffled() // 保留陣列值, 但顯示隨機陣列值
 array
+
